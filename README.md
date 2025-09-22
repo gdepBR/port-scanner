@@ -1,2 +1,2 @@
 # port-scanner
-meu 1° scan de portas.
+meu 1° scanner de portas.
